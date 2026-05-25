@@ -1,5 +1,0 @@
-Stored GIF: Dog Love GIF.gif
-
-Used by index.html as:
-./gifs/Dog%20Love%20GIF.gif
-
